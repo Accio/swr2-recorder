@@ -8,8 +8,8 @@ import re
 import time
 import argparse
 
-record_len=120;
-outfile="/home/david/Music/test-swr2.mp3"
+##record_len=120;
+##outfile="./test-swr2.mp3"
 
 parser = argparse.ArgumentParser()
 parser.add_argument("outfile",
